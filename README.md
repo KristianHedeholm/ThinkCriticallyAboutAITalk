@@ -64,7 +64,7 @@ General Critical thinking and mental models:
 
 ## Limits of LLMs
 
-[MIT Just Found a Hard Limit in LLM Scaling, and Money Won't Fix It](https://www.youtube.com/watch?v=6xQ8LQfkBg4)
+[MIT Just Found a Hard Limit in LLM Scaling, and Money Won't Fix It (Youtube Video)](https://www.youtube.com/watch?v=6xQ8LQfkBg4)
 
-[12 Things You Should Never Ask AI](https://www.facebook.com/61571067224584/posts/122174339792702240/)
+[12 Things You Should Never Ask AI (Facebook Post)](https://www.facebook.com/61571067224584/posts/122174339792702240/)
 
