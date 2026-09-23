@@ -1,5 +1,4 @@
-# Talk:
-The story of how two ladies taught me to think critically about AI
+# The story of how two ladies taught me to think critically about AI Talk
 
 Resources related to the talk.
 
@@ -27,7 +26,6 @@ Start With Why by Simon Sinek (book)
 
 Puzzle Level Idea Strategies
 https://cwpat.me/misc/puzzle-level-idea-strategies/
-
 
 Pong Matrix borrowed from Game Architecture and Design by Andrew Rollings & Dave Morris (book)
 
