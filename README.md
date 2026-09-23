@@ -53,6 +53,7 @@ The Great Mental Models (Shane Parrish)
 
 ## Websites
 General Critical thinking and mental models:
+
 [FS.blog](https://fs.blog/)
 
 [10 Powerful Mental Models: How To Make Better Decisions And Gain Clarity In Thinking](https://www.playforthoughts.com/blog/powerful-mental-models)
