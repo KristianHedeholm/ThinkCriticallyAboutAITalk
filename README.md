@@ -8,6 +8,14 @@ Resources related to the talk.
 
 For more info on Game Feel, check out Game Feel by Steve Swink (book)
 
+Questions to think about:
+1. How will this affect the team's workflow?
+
+2. How to prompt for “Game feel” and progression?
+
+3. Should training data decide which tool to use?
+
+
 # 2. Second Order Thinking
 
 [Perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
@@ -22,6 +30,14 @@ Roger McNamee on AI companies not being profitable.
 
 Start With Why by Simon Sinek (book)
 
+Questions to think about
+1. How will token prices affected the development of your game?
+
+2. How will games made with LLMs affect discoverability? 
+
+3. Why do you want to be more efficient at the process?
+
+
 # 3. The Map Is Not the Territory
 
 [Puzzle Level Idea Strategies](https://cwpat.me/misc/puzzle-level-idea-strategies/)
@@ -29,6 +45,13 @@ Start With Why by Simon Sinek (book)
 Pong Matrix borrowed from Game Architecture and Design by Andrew Rollings & Dave Morris (book)
 
 [Mark Manson, Intellectuals are F*cking Idiots](https://youtu.be/dqs8D3xfxsc?is=jnB3ssWRjE03xM0b)
+
+Things to keep in mind:
+1. A game is not just a bullet list to check off, it is an experience.
+
+2. Avoid “black box”-thinking. When you start to reprompt you are losing control.
+
+3. LLMs can very easily make these maps for us.
 
 # 4. Probabilistic Reasoning: Bayesian Thinking
 
@@ -39,6 +62,14 @@ Thinking in Bets by Annie Duke (book)
 [An Intuitive Explanation of Bayes’ Theorem](https://www.yudkowsky.net/rational/bayes)
 
 [Bayes' rule: Guide](https://www.lesswrong.com/w/bayes-rule?lens=bayes-rule-guide)
+
+Questions to think about
+* What is the likelihood of the output being correct?
+* What am I willing to bet that this is true?
+
+1. What evidence do you have to guide your estimate?
+
+2. What are the alternative options?
 
 # Further Reading
 
