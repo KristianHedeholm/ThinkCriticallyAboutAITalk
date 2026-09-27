@@ -16,10 +16,7 @@ Questions to think about:
 3. Should training data decide which tool to use?
 
 
-
-
-
-# 3. The Map Is Not the Territory
+# 2. The Map Is Not the Territory
 
 [Puzzle Level Idea Strategies](https://cwpat.me/misc/puzzle-level-idea-strategies/)
 
@@ -34,7 +31,7 @@ Things to keep in mind:
 
 3. LLMs can very easily make these maps for us.
 
-# 4. Probabilistic Reasoning: Bayesian Thinking
+# 3. Probabilistic Reasoning: Bayesian Thinking
 
 Thinking in Bets by Annie Duke (book)
 
