@@ -16,26 +16,7 @@ Questions to think about:
 3. Should training data decide which tool to use?
 
 
-# 2. Second Order Thinking
 
-[Perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
-
-[Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
-
-Roger McNamee on AI companies not being profitable.
-
-* [AI investors are in for a rude awakening](https://www.theguardian.com/commentisfree/2025/sep/24/ai-investors-llms)
-
-* ['They are in PANIC mode': Why AI CEOs are agreeing to a slowdown](https://www.youtube.com/watch?v=uE_AcmSqNP4)
-
-Start With Why by Simon Sinek (book)
-
-Questions to think about
-1. How will token prices affected the development of your game?
-
-2. How will games made with LLMs affect discoverability? 
-
-3. Why do you want to be more efficient at the process?
 
 
 # 3. The Map Is Not the Territory
@@ -70,6 +51,29 @@ Questions to think about
 1. What evidence do you have to guide your estimate?
 
 2. What are the alternative options?
+
+# Bonus topic Second Order Thinking
+
+[What is Second Order Thinking](https://fs.blog/second-order-thinking/) 
+
+[Perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
+
+[Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+
+Roger McNamee on AI companies not being profitable.
+
+* [AI investors are in for a rude awakening](https://www.theguardian.com/commentisfree/2025/sep/24/ai-investors-llms)
+
+* ['They are in PANIC mode': Why AI CEOs are agreeing to a slowdown](https://www.youtube.com/watch?v=uE_AcmSqNP4)
+
+Start With Why by Simon Sinek (book)
+
+Questions to think about
+1. How will token prices affected the development of your game?
+
+2. How will games made with LLMs affect discoverability? 
+
+3. Why do you want to be more efficient at the process?
 
 # Further Reading
 
