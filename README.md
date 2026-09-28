@@ -4,6 +4,8 @@ Resources related to the talk.
 
 # 1. First Principle Thinking
 
+[First-principles thinking](https://www.lennysnewsletter.com/p/first-principles-thinking)
+
 [AI Coding Tools for Video Game Development: A First-Principles Analysis of What Actually Works](https://chierhu.medium.com/ai-coding-tools-for-video-game-development-a-first-principles-analysis-of-what-actually-works-90dfa10edd13)
 
 For more info on Game Feel, check out Game Feel by Steve Swink (book)
